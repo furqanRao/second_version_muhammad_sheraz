@@ -1,0 +1,1 @@
+web: gunicorn product_stats_muhammad_v2.wsgi --log-file -
